@@ -2,7 +2,7 @@
 
 ## -Ejercicio 1 
 
-- [ejercicio1](https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md)
+- [ejercicio1]([https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md](https://github.com/BrunoGonT/actividad2_1/blob/main/Markdodwn/ejercicio1.md))
 
 ## -Ejercicio 2 
 - [ejercicio2](https://brunogont.github.io/Lagrange/)
