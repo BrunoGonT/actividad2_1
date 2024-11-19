@@ -7,8 +7,7 @@
 [https://github.com/BrunoGonT/Lagrange](https://brunogont.github.io/Lagrange/)
 
 ## -Ejercicio 3 (link al sitio del tema Jekyll Klisé en NETLIFY:
-https://nombre_sitio.netlify.app
+[https://nombre_sitio.netlify.app](https://ejercicioooo3.netlify.app/)
 
-No me funciona, ya te lo explique en clase y al querer hacer otra pagina no me carga
 
 ## Ejercicio 4 (link al sitio con el tema elegido por tí y desplegado en CLOUDFARE: https://nombre_sitio.pages.dev)
