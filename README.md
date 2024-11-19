@@ -13,3 +13,5 @@ https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md
 
 
 ## Ejercicio 4 (link al sitio con el tema elegido por tí y desplegado en CLOUDFARE: https://nombre_sitio.pages.dev)
+
+https://eb4dcb9f.jekyll-theme-chirpy-7t6.pages.dev/
