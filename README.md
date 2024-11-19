@@ -4,7 +4,7 @@
 
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES: https://tu_cuenta_github.github.io/lagrange/)
 
-https://github.com/BrunoGonT/Lagrange
+[https://github.com/BrunoGonT/Lagrange](https://brunogont.github.io/Lagrange/)
 
 ## -Ejercicio 3 (link al sitio del tema Jekyll Klisé en NETLIFY:
 https://nombre_sitio.netlify.app
