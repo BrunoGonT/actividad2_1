@@ -2,7 +2,8 @@
 
 ## -Ejercicio 1 (link a resolución del Ejercicio 1: content/ejercicio1.md)
 
-https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md
+[ghg](https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md)
+
 
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES: https://tu_cuenta_github.github.io/lagrange/)
 
@@ -14,4 +15,5 @@ https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md
 
 ## Ejercicio 4 (link al sitio con el tema elegido por tí y desplegado en CLOUDFARE: https://nombre_sitio.pages.dev)
 
-https://eb4dcb9f.jekyll-theme-chirpy-7t6.pages.dev/
+[](https://eb4dcb9f.jekyll-theme-chirpy-7t6.pages.dev/)
+
