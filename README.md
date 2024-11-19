@@ -2,6 +2,8 @@
 
 ## -Ejercicio 1 (link a resolución del Ejercicio 1: content/ejercicio1.md)
 
+https://github.com/BrunoGonT/actividad2_1/blob/main/ejercicio1.md
+
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES: https://tu_cuenta_github.github.io/lagrange/)
 
 [https://github.com/BrunoGonT/Lagrange](https://brunogont.github.io/Lagrange/)
